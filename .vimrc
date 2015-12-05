@@ -31,7 +31,7 @@ set nosmartindent
 "only turn on cindent if it's a c file...
 "set cindent
 set showmode " displays mode in status line
-colorscheme ir_black
+colorscheme default
 
 filetype on
 filetype indent on
